@@ -7,8 +7,7 @@ const useVideos = (defaultSearchTerm) => {
   
   useEffect(() => {
     search(defaultSearchTerm);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [defaultSearchTerm]);
 
   const search = async term => {
     const response = await youtube.get('/search', {
