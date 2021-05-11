@@ -1,3 +1,11 @@
+# Project available on
+
+Open [https://priceless-cori-e158ac.netlify.app/](https://priceless-cori-e158ac.netlify.app/) to view the deployed version with Netlify
+
+or
+
+Open [https://videos-with-hooks-virid.vercel.app/](https://videos-with-hooks-virid.vercel.app/) to view the deployed version with Vercel
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
